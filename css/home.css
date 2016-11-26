@@ -1,0 +1,82 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 黑体;
+    background-color: rgb(250,250,250);
+}
+a{
+    text-decoration:none;
+}
+.now_focus{
+    float: left;
+    font-size: 20px;
+    margin: -2px 0 0 3px;
+}
+.save_btn{
+    background-color:rgb(0,112,192) ;
+    color: #fff;
+    border: solid #fff 1px;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 3px 8px;
+    float: right;
+    margin: -7px 3px 3px;
+}
+.music_left{
+    padding:15px 0 0 5px;
+    float: left;
+}
+.music_right{
+    text-align: left;
+    float: left;
+    padding: 20px 5px 0 5px;
+    color: #fff;
+}
+
+.music_img{
+    width: 100px;
+    height: 100px;
+    border-radius: 5px;
+    float: left;
+}
+.play_btn{
+    width: 50px;
+    height: 50px;
+    margin: 25px 0 0 -75px;
+    float: left;
+}
+td{
+    padding-top: 10px;
+}
+.list_left{
+    width: 80px;
+    border-radius: 50%;
+}
+.txt_name{
+    font-size: 25px;
+    font-family: 方正舒体;
+}
+.temp_background{
+    margin-top:23px;
+    width: 100%;
+    height:25px;
+    background-color: #ffffff;
+    border: solid rgb(0,112,192) 1px;
+    border-radius: 5px;
+}
+.temp_now{
+    margin-top:-27px;
+    height:25px;
+    background-color: crimson;
+    border: solid crimson 1px;
+    border-radius: 5px 0 0 5px;
+}
+.temp_txt{
+    margin-top: -50px;
+    float: right;
+    font-size: 25px;
+    font-family: 华文新魏;
+}
+.font_main{
+    color:rgb(0,112,192) ;
+}
